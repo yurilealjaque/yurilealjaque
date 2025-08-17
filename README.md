@@ -42,6 +42,8 @@ Actualmente en proceso de transformación hacia el desarrollo fullstack. Estoy c
 🐬 MySQL  (formándome)
 🐘 Postgre (formándome)
 🦫 DBeaver (formándome)
+
+
 🛠 Dev Tools & IDEs:
 
 🐈‍⬛ Git & Git Bash
