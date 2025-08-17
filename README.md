@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n;Nutricionista%20Cl%C3%ADnico%20y%20Educador;Protocolos%20basados%20en%20evidencia%20%F0%9F%93%9A;Automatizando%20recursos%20cl%C3%ADnicos%20y%20educativos;Siempre%20aprendiendo%20algo%20nuevo%20%F0%9F%92%AC&center=true&width=500&height=45&font=Fira%20Code&color=CB9CF7">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n;Nutricionista%20Cl%C3%ADnico%20y%20;Protocolos%20basados%20en%20evidencia%20%F0%9F%93%9A;Siempre%20aprendiendo%20algo%20nuevo%20%F0%9F%92%AC&center=true&width=500&height=45&font=Fira%20Code&color=CB9CF7">
   </a>
 </p>
 
@@ -99,6 +99,15 @@ vocación(salud/informática) por el servicio con la innovación.
 ### 🏥 Nutricionista Clínico | Centro Médico Santa Catalina / Red Salud Buin (Marzo 2025 – Agosto 2025)
 - Evaluación y educación nutricional de pacientes adultos y pediátricos.
 - Manejo de patologías crónicas y agudas en contexto ambulatorio.
+
+  ## 📊 Profile Statistics
+
+ <div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=yurilealjaque&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+<br>
+
+</div>
 
 
 
