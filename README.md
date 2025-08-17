@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:9D7BD8,100:CBA6F7&reversal=true" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#8A2BA2,100:CBA6F7&reversal=true" />
 </div>
 
 <h3 align="center">
@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n;Nutricionista%20Cl%C3%ADnico%20y%20;Protocolos%20basados%20en%20evidencia%20%F0%9F%93%9A;Siempre%20aprendiendo%20algo%20nuevo%20%F0%9F%92%AC&center=true&width=500&height=45&font=Fira%20Code&color=CB9CF7">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n;Nutricionista%20y%20Sonidista%20;Protocolos%20basados%20en%20evidencia%20%F0%9F%93%9A;Siempre%20aprendiendo%20algo%20nuevo%20%F0%9F%92%AC&center=true&width=500&height=45&font=Fira%20Code&color=CB9CF7">
   </a>
 </p>
 
