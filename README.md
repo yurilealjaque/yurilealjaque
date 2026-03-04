@@ -1,121 +1,82 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Yuri Ignacio Leal Jaque</h1></summary>
+  </ul>
+</div>
+
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=#8A2BA2,100:CBA6F7&reversal=true" />
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" />
 </div>
 
-<h3 align="center">
-  Hola, soy Yuri Ignacio 👨‍💻
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Fullstack Developer & QA en formación</h2></summary>
+  </ul>
+</div>
 
+Profesional en transición hacia el sector tecnológico con una sólida base técnica en desarrollo Fullstack y Quality Assurance. 
+
+- 🎓 Graduado de bootcamps en **Java (Generation Chile)** y **Python (Talento Digital / ECAS)**.
+- 🧪 Especializado en **QA y Automatización**.
+- 🍎🎸 Mi formación previa como **Nutricionista (UNAB)** y **Técnico en Sonido (INACAP)** me otorga una visión analítica y metódica.
+- 🔭 Actualmente enfocado en resolver problemas complejos en el desarrollo de software y asegurar la calidad del código.
+- 📫 Puedes contactarme en: **www.linkedin.com/in/yuri-ignacio-leal-jaque**
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrollador%20Full%20Stack%20en%20formaci%C3%B3n;Nutricionista%20y%20Sonidista%20;Protocolos%20basados%20en%20evidencia%20%F0%9F%93%9A;Siempre%20aprendiendo%20algo%20nuevo%20%F0%9F%92%AC&center=true&width=500&height=45&font=Fira%20Code&color=CB9CF7">
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yurilealjaque&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img title="🔥 Streak Stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=yurilealjaque&theme=dark&hide_border=false" /> 
+</td>
+<td width="50%" align="center">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yurilealjaque&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+</td>
+</tr>
+</table>
+</p>
+
+<div align=center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
+      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=yurilealjaque&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
+    </a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Technologies That I Know 👨🏻‍💻</h2></summary>
+  </ul>
+</div>
+
+### QA y Automatización
+<p align="left">
+  <img src="https://img.shields.io/badge/-Selenium-%2343B02A?style=flat-square&logo=selenium&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Cypress-%2317202C?style=flat-square&logo=cypress&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
+
+### Desarrollo y Herramientas
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,postgres,mysql,spring,django,nodejs,react,html,css,maven,git,github&perline=14" />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/YuriIgnacio" align="center">
-    <img align="center" alt="Visitas" src="https://visitor-badge.laobi.icu/badge?page_id=YuriIgnacio.YuriIgnacio">
-  </a>
-</p>
-
-
-
-# 🧑‍💻 Yuri Ignacio Leal Jaque| Fullstack Developer en Formación
-
-¡Hola! estimados me presento, soy Yuri Leal Nutricionista en mención Gestión y Calidad de la universidad Andrés Bello y tecnico en sonido(INACAP),cuento con experiencia laboral de estas 2 areas.
-Actualmente en proceso de transformación hacia el desarrollo fullstack. Estoy cursando el bootcamp de Generation Chile, donde estoy adquiriendo habilidades sólidas tanto en frontend como backend, con un enfoque en proyectos colaborativos, metodologías ágiles y buenas prácticas de programación.
-
----
-
-## 🚀 Tecnologías y Herramientas
-
-🤓 Languajes & Tecnologías
-
-☕ Java (incl. Java 21)
-🗃️ SQL (formándome)
-🌐 HTML (formándome)
-🎨 CSS (formándome)
-🔔 JavaScript (formándome)
-
-📦 SQLite  (formándome)
-🐬 MySQL  (formándome)
-🐘 Postgre (formándome)
-🦫 DBeaver (formándome)
-
-
-🛠 Dev Tools & IDEs:
-
-🐈‍⬛ Git & Git Bash
-💎 Visual Studio Code
-📕 IntelliJ IDEA
-👶Docker ((formándome))
-
-
----
-## 🧠 ¿Por qué desarrollo?
-
-Hoy me encuentro en una etapa de crecimiento y transformación. Por un lado, trabajo como nutricionista y además estoy en un aprendizaje técnico del bootcamp desarrollador fullstack de Generation. Mi objetivo es
-claro: primero, ser competente en el área de la informática, logrando adquirir conocimiento para en un futuro tener 2 fuentes laborales activas, por otro lado, tengo un objetivo ambicioso que me gustaría concretar, este consiste en integrar el conocimiento del área de la salud con herramientas tecnológicas para crear soluciones a pacientes. Me considero una persona adaptable, con una mirada integral, capaz de conectar mundos distintos y generar valor a través de nuevas soluciones. Mi frase para resumir mis objetivos seria: Unir la
-vocación(salud/informática) por el servicio con la innovación.
-
----
-
-# 🧾 Experiencia Laboral
-
-## 🕒 Línea de Tiempo Profesional
-
-### 🎧 Sonidista Audiovisual | RLA Chile y otros (2012 – 2014)
-- Trabajo en equipo, liderazgo y adaptabilidad.
-- Ejecución bajo presión en labores de mediana y alta complejidad.
-
----
-
-### 🏥 Nutricionista de Producción | Hospital La Florida (Febrero – Mayo 2022)
-- Unidad Central de Producción en servicio de alta complejidad.
-- Supervisión de línea de producción para pacientes y funcionarios.
-- Apoyo a nutricionista de producción y auxiliares dietéticas.
-
----
-
-### 🏥 Nutricionista Clínico y Contraparte | CRS Hospital El Pino (Septiembre – Noviembre 2022)
-- Atención de pacientes con patologías crónicas: HTA, DM, ERC, obesidad mórbida.
-- Evaluación, diagnóstico, intervención y educación en consultas de alto rendimiento.
-
----
-
-### 🏥 Nutricionista Clínico y de Producción | Hospital El Pino (Enero – Febrero 2023)
-- Evaluación y educación de pacientes en Urgencia, Pabellón, Maternidad, UCM.
-- Jefe de equipo en la central de alimentación para funcionarios.
-- Servicios prestados por Aliservice S.A.
-
----
-
-### 🏥 Nutricionista de Producción | CAPREDENA Centro de Salud y Rehabilitación (Agosto 2023 – Enero 2024)
-- Liderazgo de personal dietético, cocina y aseo.
-- Monitor de calidad: BPM, sanitización, temperaturas críticas, contramuestras.
-- Servicios prestados por FEDIR CHILE SpA.
-
----
-
-### 🏥 Nutricionista Clínico | Centro Médico Santa Catalina / Red Salud Buin (Marzo 2025 – Agosto 2025)
-- Evaluación y educación nutricional de pacientes adultos y pediátricos.
-- Manejo de patologías crónicas y agudas en contexto ambulatorio.
-
-  ## 📊 Profile Statistics
-
- <div align=center>
-
-![](https://github-readme-stats.vercel.app/api?username=yurilealjaque&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-<br>
-
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
+  </ul>
 </div>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/yuri-ignacio-leal-jaque" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://github.com/yurilealjaque" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="github" height="50" width="50" /></a>
+</p>
 
+<div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=yurilealjaque&icon=3&color=6" />
+</div>
 
-## 🤝 Conectemos
-
-Estoy abierto a colaboraciones, feedback y oportunidades para seguir aprendiendo.
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuri-ignacio-leal-jaque-78a437240/)
-**¡Gracias por visitar mi perfil!**
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
