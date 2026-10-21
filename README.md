@@ -19,8 +19,8 @@
 Profesional en transición hacia el sector tecnológico con una sólida base técnica en desarrollo Fullstack y Quality Assurance. 
 
 - 🎓 Graduado de bootcamps en **Java (Generation Chile)** y **Python (Talento Digital / ECAS)**.
-- 🧪 Especializado en **QA y Automatización**.
-- 🍎🎸 Mi formación previa como **Nutricionista (UNAB)** y **Técnico en Sonido (INACAP)** me otorga una visión analítica y metódica.
+- 🧪 Especializado en **QA y Automatización (Nodo / Academia Desafío Latam)**.
+- 🧪Mi formación previa como **Nutricionista (UNAB)** y **Técnico en Sonido (INACAP)** me otorga una visión analítica y metódica.
 - 🔭 Actualmente enfocado en resolver problemas complejos en el desarrollo de software y asegurar la calidad del código.
 - 📫 Puedes contactarme en: **www.linkedin.com/in/yuri-ignacio-leal-jaque**
 <p align="center">
